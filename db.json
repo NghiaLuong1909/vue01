@@ -1,0 +1,31 @@
+{
+    "employees":
+    [
+        {
+            "MaNV": "NV001",
+            "HoTen": "Nguyen Van A",
+            "GioiTinh": "Nam",
+            "NgaySinh": "1/1/2000",
+            "ChucDanh": "Truong phong",
+            "TenDonVi": "Phong CNTT"
+        }
+        ,
+        {
+            "MaNV": "NV002",
+            "HoTen": "Nguyen Van B",
+            "GioiTinh": "Nam",
+            "NgaySinh": "1/1/2000",
+            "ChucDanh": "Pho phong",
+            "TenDonVi": "Phong CNTT"
+        },
+        {
+            "MaNV": "NV003",
+            "HoTen": "Nguyen Thi C",
+            "GioiTinh": "Nu",
+            "NgaySinh": "1/1/2000",
+            "ChucDanh": "Nhan vien",
+            "TenDonVi": "Phong CNTT"
+        }
+    ]
+    
+}
